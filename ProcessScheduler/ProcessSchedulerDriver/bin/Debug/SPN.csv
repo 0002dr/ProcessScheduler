@@ -1,0 +1,14 @@
+Shortest Process Next Algorithm
+Arrival Time,Wait Time,Turnaround Time,
+0,0,12,
+3,10,13,
+6,26,37,
+7,5,6,
+7,9,13,
+10,10,15,
+15,28,48,
+16,9,16,
+
+
+Avg WaitTime,Avg TurnaroundTime,Std Dev of WaitTime, Std Dev of TurnaroundTime,
+12.13,20.00,9.79,14.50,

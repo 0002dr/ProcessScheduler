@@ -1,0 +1,14 @@
+First Come First Served Algorithm
+Arrival Time,Wait Time,Turnaround Time,
+0,0,12,
+3,9,12,
+6,9,20,
+7,19,20,
+7,20,24,
+10,21,26,
+15,21,41,
+16,40,47,
+
+
+Avg WaitTime,Avg TurnaroundTime,Std Dev of WaitTime, Std Dev of TurnaroundTime,
+17.38,25.25,11.12,11.88,

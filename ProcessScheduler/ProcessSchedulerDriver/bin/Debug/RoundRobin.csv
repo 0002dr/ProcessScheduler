@@ -1,0 +1,14 @@
+Round-Robin Algorithm,,,
+Arrival Time,Wait Time,Turnaround Time,
+0,0,28,
+3,1,4,
+6,5,42,
+7,8,9,
+7,9,13,
+10,10,31,
+15,13,48,
+16,20,35,
+,,,
+,,,
+Avg WaitTime,Avg TurnaroundTime,Std Dev of WaitTime, Std Dev of TurnaroundTime
+8.25,26.25,6.5,16

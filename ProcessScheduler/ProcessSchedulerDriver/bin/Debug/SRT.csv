@@ -1,0 +1,14 @@
+Shortest Remaining Time Algorithm
+Arrival Time,Wait Time,Turnaround Time,
+0,0,32,
+3,0,3,
+6,26,37,
+7,0,1,
+7,1,5,
+10,2,7,
+15,28,48,
+16,1,8,
+
+
+Avg WaitTime,Avg TurnaroundTime,Std Dev of WaitTime, Std Dev of TurnaroundTime,
+7.25,17.63,12.22,18.36,
